@@ -1,13 +1,2 @@
-- 👋 Hi, I’m @amanyire
-- 👀 I’m interested in Front-End Developer...
-- 🌱 I’m currently learning Machine Learning in python...
-- 💞️ I’m looking to collaborate on Bukedde Website...
-- 📫 How to reach me pacmac2013@gmail.com...
 
-<!---
-Knowledgeable Front-End Developer adept at creating successful websites that meet customer needs. Specializing in collaborating with clients to gather requirements, produce plans and improve designs for usability and functionality. 
-Fully proficient in Vuejs, Nuxtjs and Reactjs. Experienced working with teams to produce impactful, leading-edge websites that engage customers and deliver business results. 
-Well-versed in design standards and user preferences. Accomplished Front End Web Developer with 5+ years designing online assets to attract maximum engagement and conversions from ad placements. 
-Expert at growing traffic and building consistent, flourishing sources of ad and e-commerce revenue. Adaptable to unique compliance and regulatory issues for software engineering industry. 
-
---->
+Senior Front End Developer with over 8 years of experience building scalable, performant, and responsive web applications using Vue.js (Vue 2 & Vue 3), Nuxt.js (v2 & v3), JavaScript (ES6+), and TypeScript. Skilled in developing reusable components, implementing modern architectures like micro-frontends, and collaborating in Agile/Scrum environments. Strong communication, team leadership, and mentoring capabilities. Passionate about clean code, continuous learning, and delivering user-focused solutions.
